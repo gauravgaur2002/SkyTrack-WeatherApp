@@ -14,7 +14,8 @@ Skytrack WeatherApp is a web-based weather forecasting app that provides users w
 - Responsive design for mobile and desktop views.
 ### Screenshot
 
-![Weather App Screenshot](https://github.com/gauravgaur2002/SkyTrack-WeatherApp/blob/main/weatherapp.png)
+![Weather App Screenshot](https://github.com/gauravgaur2002/SkyTrack-WeatherApp/blob/main/WeatherApp.png?raw=true)
+
 
 
 
