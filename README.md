@@ -12,7 +12,9 @@ Skytrack WeatherApp is a web-based weather forecasting app that provides users w
 - Get real-time weather data (temperature, humidity, wind speed).
 - Display weather in both Celsius and Fahrenheit.
 - Responsive design for mobile and desktop views.
+### Screenshot
 
+![Weather App Screenshot](./images/weatherapp.png)
 
 ## Installation Instructions
 
